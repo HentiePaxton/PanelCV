@@ -1116,7 +1116,7 @@ ul.about {
     }
 
 
-    .widget-profil:first-child
+    .widget-profil > .row
     {
       background-color: black;
     }
@@ -1137,7 +1137,7 @@ ul.about {
 
      padding-bottom: 15px;
     }
-    .widget-profil:first-child
+    .widget-profil > .row
     {
       background-color: black;
     }
@@ -1166,7 +1166,7 @@ ul.about {
 
      padding-bottom: 15px;
     }
-    .widget-profil:first-child
+    .widget-profil > .row
     {
       background-color: black;
     }
@@ -1192,7 +1192,7 @@ ul.about {
 
      padding-bottom: 15px;
     }
-    .widget-profil:first-child
+    .widget-profil > .row
     {
       background-color: black;
     }
