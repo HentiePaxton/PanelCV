@@ -1021,15 +1021,15 @@ ul.about {
 }
 
 #profile_social a{
-    width: 45px;
-    height: 45px;
-    line-height: 45px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
     margin: 0px 0px 0px 5px;
     padding: 0;
     border-width: 1px;
     border-style: solid;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     float: left;
     display: block;
     color : #fff;
@@ -1067,10 +1067,10 @@ ul.about {
 @media only screen and (min-width: 1200px) {
 
     .widget-profil #profile_social a{
-        width: 45px;
-        height: 45px;
-        line-height: 45px;
-        font-size: 24px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 20px;
     }
     .widget-profil h1 {
         font-size: 25px;
@@ -1081,9 +1081,9 @@ ul.about {
 @media only screen and (max-width: 1199px) {
 
     .widget-profil #profile_social a {
-        width: 34px;
-        height: 34px;
-        line-height: 34px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
         font-size: 20px;
     }
 
