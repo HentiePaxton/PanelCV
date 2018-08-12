@@ -1110,8 +1110,17 @@ ul.about {
         float: none;
     }
     #profile_social {
-        display: none;
+        //display: none;
+
+     padding-bottom: 15px;
     }
+
+
+    .widget-profil:first-child
+    {
+      background-color: black;
+    }
+
     #profile_desc {
         display:none;
     }
@@ -1124,7 +1133,13 @@ ul.about {
         float: none;
     }
     #profile_social {
-        display: none;
+        //display: none;
+
+     padding-bottom: 15px;
+    }
+    .widget-profil:first-child
+    {
+      background-color: black;
     }
     #profile_desc {
         display:none;
@@ -1147,7 +1162,13 @@ ul.about {
         float: none;
     }
     #profile_social {
-        display: none;
+        //display: none;
+
+     padding-bottom: 15px;
+    }
+    .widget-profil:first-child
+    {
+      background-color: black;
     }
 }
 
@@ -1167,7 +1188,13 @@ ul.about {
     }
 
     #profile_social {
-        display: none;
+        //display: none;
+
+     padding-bottom: 15px;
+    }
+    .widget-profil:first-child
+    {
+      background-color: black;
     }
     #profile_desc {
         border-bottom: 0 !important;
